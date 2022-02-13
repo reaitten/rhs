@@ -1,9 +1,7 @@
 # Rclone Herokushell
  Interface Heroku's shell through Telegram, plus Rclone support
-
-This project is a re-branded repository of [HerokuShell-Rclone](https://github.com/hostitor/HerokuShell-Rclone) by `hostitor`.
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pavithran-R/Rclone-HerokuShell/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reaitten/rhs/tree/main)
 
 ## Installation
 - First get the following prepared:
