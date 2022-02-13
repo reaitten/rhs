@@ -1,5 +1,5 @@
-# Rclone Herokushell
- Interface Heroku's shell through Telegram, plus Rclone support
+# rhs
+Interact with rclone with Telegram.
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reaitten/rhs/tree/main)
 
