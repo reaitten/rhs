@@ -1,13 +1,13 @@
 {
-    "name": "Rclone HerokuShell",
-    "description": "Bot to interface Heroku shell through Telegram with Rclone",
+    "name": "rhs",
+    "description": "Interact with rclone with Telegram.",
     "keywords": [
         "telegram",
         "shell",
         "rclone",
         "heroku"
     ],
-    "repository": "https://github.com/Pavithran-R/RcloneHeroku-Shell.git",
+    "repository": "https://github.com/reaitten/rhs.git",
     "env": {
       "BOT_TOKEN": {
         "description": "The bot token provided by @BotFather",
